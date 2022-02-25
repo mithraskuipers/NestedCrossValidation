@@ -1,6 +1,6 @@
 # Nested Cross Validation
 
-Manual Python implementation of the Nested Cross Validation algorithm (`nested_cv.py`), performing exhaustive search over the specified parameter values. It estimates the generalization error (`MSE`) of the underlying model and its (hyper)parameter search. Generally, choosing the parameters that maximize non-nested Cross Validation biases the model to the dataset, yielding an overly-optimistic score.
+Manual Python implementation of the Nested Cross Validation algorithm (`nested_cv.py`), performing exhaustive search over the specified parameter values. It estimates the generalization error (`MSE`) of the underlying model and its (hyper)parameter search. Generally, choosing the parameters that maximize non-nested Cross Validation biases the model to the dataset, yielding an overly-optimistic score. Due to the nature of this exhaustive search, the time complexity is O(n * m).
 
 ~ Mithras
 
