@@ -4,7 +4,7 @@ Manual Python implementation of the Nested Cross Validation algorithm (`nested_c
 
 ~ Mithras
 
-![](https://raw.githubusercontent.com/mithraskuipers/NestedCrossValidation/main/img/nCV.png)
+[](https://raw.githubusercontent.com/mithraskuipers/NestedCrossValidation/main/img/nCV.png)
 
 ## Return values
 
